@@ -1,0 +1,4 @@
+*.pyc
+*.bak
+hello.py*
+.idea
